@@ -20,15 +20,8 @@ Execute a classe ConversorMoedas
 Siga as instruções no console
 
 
-=== Olá, bem vindo ao Conversor de Moedas atualizado ===
-1 - Dólar Americano (USD)
-2 - Real Brasileiro (BRL)
-3 - Peso Argentino (ARS)
-4 - Boliviano Boliviano (BOB)
-5 - Peso Chileno (CLP)
-6 - Peso Colombiano (COP)
-0 - Sair
-Escolha a moeda de origem, a sua moeda atual (número): 
+<img width="494" height="204" alt="image" src="https://github.com/user-attachments/assets/a4f609b2-5e60-40ef-8fab-c078a5de6737" />
+
 
 
 📌 Próximos possíveis Passos
